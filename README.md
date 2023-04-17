@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
-# 👋 I am Full Stack Web Developer.
+<h1 align="center">👋 Hi, I am Full Stack Web Developer.</h1>
 
 ### :man_technologist: About Me :
 
