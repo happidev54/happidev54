@@ -40,3 +40,6 @@
 
 ### :fire: My Stats :
 
+![happidev54's Github Stats](https://github-readme-stats.vercel.app/api?username=happidev54&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happidev54&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![happidev54's Activity Graph](https://activity-graph.herokuapp.com/graph?username=happidev54&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
