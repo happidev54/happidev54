@@ -1,8 +1,8 @@
-<h1 align="center">👋 I am Full Stack Web Developer.</h1>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
+
+## 👋 I am Full Stack Web Developer.
 
 ---
 
