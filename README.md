@@ -38,5 +38,5 @@
 
 ### :fire: My Stats :
 
-![happidev54's Github Stats](https://github-readme-stats.vercel.app/api?username=happidev54&show_icons=true&hide_border=true&theme=tansparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happidev54&langs_count=8&layout=compact&hide_border=true&theme=tansparent)
+![happidev54's Github Stats](https://github-readme-stats.vercel.app/api?username=happidev54&show_icons=true&hide_border=true&theme=react&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happidev54&langs_count=8&layout=compact&hide_border=true&theme=react&bg_color=00000000)
