@@ -33,10 +33,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-![happidev54's Github Stats](https://github-readme-stats.vercel.app/api?username=happidev54&show_icons=true&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happidev54&langs_count=8&layout=compact&hide_border=true&bg_color=00000000)
