@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rt5V86sK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--TVrZFUna--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wukog07lt3tvqobbl611.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZkMjYwNGY3MzlhYjUxMDMzMmI0Nzg4Y2JmYzkwNDZlZmQyNzk2MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
 <h1 align="center">👋 Hi, I am Full Stack Web Developer.</h1>
 
-### :man_technologist: About Me :
+### About Me :
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -12,7 +12,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### My Skills:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
