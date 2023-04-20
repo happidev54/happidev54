@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--rt5V86sK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--TVrZFUna--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wukog07lt3tvqobbl611.gif)" width="600" height="400"/>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rt5V86sK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--TVrZFUna--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wukog07lt3tvqobbl611.gif" width="600" height="400"/>
 </div>
 
 <h1 align="center">👋 Hi, I am Full Stack Web Developer.</h1>
