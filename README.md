@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZkMjYwNGY3MzlhYjUxMDMzMmI0Nzg4Y2JmYzkwNDZlZmQyNzk2MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
-</div>
-
 <h1 align="center">👋 Hi, I am Full Stack Web Developer.</h1>
 
 ### About Me :
