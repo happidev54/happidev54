@@ -1,18 +1,6 @@
 <h1 align="center">👋 Hi, I am Full Stack Web Developer.</h1>
 
-### About Me :
-
-```javascript
-while (alive) {
-     eat();
-     sleep();
-     code();
-}
-```
-
-### My Skills:
-
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
