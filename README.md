@@ -6,11 +6,13 @@
 
 ### About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :zap: In my free time, I drink some coffe and read technical articles.
-
----
+```javascript
+while (alive) {
+     eat();
+     sleep();
+     code();
+}
+```
 
 ### My Skills:
 
